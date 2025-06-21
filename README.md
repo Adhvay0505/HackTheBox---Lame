@@ -1,1 +1,1 @@
-# HackTheBox---Lame
+# HackTheBox---Lame Writeup
